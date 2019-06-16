@@ -4,3 +4,4 @@
 2.  Modeling database and setting mongodb(mongoose)
 3.  Dynamic relations
 4.  Refactoring code, make it beautiful
+5.  Adding user authentication
