@@ -1,5 +1,7 @@
 # Graphl + React + mongodb
 
+## Progresss...
+
 1.  setting basic graphql
 2.  Modeling database and setting mongodb(mongoose)
 3.  Dynamic relations
@@ -13,3 +15,5 @@
 11. Event Features
 12. Add Book event
 13. Add Dataloader
+14. Add Features and bug to fix it leter
+15. Chart from react-chart
